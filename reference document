@@ -1,0 +1,25 @@
+python:
+Flask扩展系列(九)–HTTP认证：　http://www.bjhee.com/flask-ext9.html
+OAuth Authentication with Flask：https://blog.miguelgrinberg.com/post/oauth-authentication-with-flask
+OAuth Refresh Tokens in AngularJS App ：http://bitoftech.net/2014/07/16/enable-oauth-refresh-tokens-angularjs-app-using-asp-net-web-api-2-owin/
+Flask-RESTful资源方法装饰器：　http://www.pythondoc.com/Flask-RESTful/extending.html
+理解 Python 装饰器：　https://foofish.net/python-decorator.html
+
+web:
+Angular 应用中的登陆与身份验证： https://juejin.im/entry/57906a507db2a20054c5ac16
+单页应用 - Token 验证：https://juejin.im/post/58da720b570c350058ecd40f
+
+
+资料：
+OAuth:  http://blog.toxicjohann.com/2016/04/30/talk-about-wechat-oauth/
+理解OAuth 2.0:　http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
+JSON Web Token：　https://github.com/smilingsun/blog/issues/1
+JSON Web Tokens：　https://juejin.im/entry/577b7b56a3413100618c2938
+
+JWT (JSON Web Token) automatic prolongation of expiration：　http://stackoverflow.com/questions/26739167/jwt-json-web-token-automatic-prolongation-of-expiration
+
+Authenticate REST： http://blog.appliedinformaticsinc.com/how-to-authenticate-rest-requests/
+使用Flask设计带认证token的RESTful API接口：　http://www.cnblogs.com/vovlie/p/4182814.html
+使用JSON Web令牌无Cookie验证：http://qqucg.com/211.html
+
+JSON网络令牌库中出现严重漏洞：http://bobao.360.cn/news/detail/1377.html
